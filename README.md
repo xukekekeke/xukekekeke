@@ -3,5 +3,7 @@
   <a href="https://onodalab.ees.hokudai.ac.jp"> Lab </a>
 </p>
 
-![Snake animation](https://github.com/xukekekeke/xukekekeke/blob/output/github-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/xukekekeke/xukekekeke/output/github-snake.svg)
 
+-------
+![](https://komarev.com/ghpvc/?username=xukekekeke&style=flat-square&color=blue) 
